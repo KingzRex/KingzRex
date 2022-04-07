@@ -17,6 +17,6 @@ Here are some ideas to get you started: -->
 
 
 
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingzRex)](https://github.com/KingzRex/github-readme-stats)
+[![KingzRex's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingzRex)](https://github.com/KingzRex/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingzRex&langs_count=10&layout=compact)](https://github.com/KingzRex/github-readme-stats)
