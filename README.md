@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started: -->
 - 🔭 I’m currently working on
-    [Blocverse](https://github.com/Blocverse01)
+    [BlocTix](https://www.bloctix.com/)
     [Open Spaces](https://github.com/joshDamian/open-spaces)
 - 🌱 I’m currently learning [Go](https://golang.org/)
-- 👯 I’m looking to collaborate on Building programmable solutions with [Solidity](https://soliditylang.org/) | [Typescript](https://www.typescriptlang.org/)
+- 👯 Actively Building an NFT Ticketing solution [BlocTix](https://www.bloctix.com/) with my team!  | [Blocverse](https://github.com/Blocverse01
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
