@@ -6,6 +6,7 @@
 Here are some ideas to get you started: -->
 - 🔭 I’m currently working on
     [BlocTix](https://www.bloctix.com/)
+    and
     [Open Spaces](https://github.com/joshDamian/open-spaces)
 - 🌱 I’m currently learning [Go](https://golang.org/)
 - 👯 Actively Building an NFT Ticketing solution [BlocTix](https://www.bloctix.com/) with my team!  | [Blocverse](https://github.com/Blocverse01
