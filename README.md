@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 - 🔭 I’m currently working on
-    [BlocTix](https://www.bloctix.com/)
+    [TixHive](https://www.tixHive.com/)
     and
     [Open Spaces](https://github.com/joshDamian/open-spaces)
 - 🌱 I’m currently learning [Go](https://golang.org/)
