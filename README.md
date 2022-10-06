@@ -7,8 +7,8 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on
     [TixHive](https://www.tixHive.com/)
     and
-    [Open Spaces](https://github.com/joshDamian/open-spaces)
-- 🌱 I’m currently learning [Go](https://golang.org/)
+    [Uwazi](https://uwazi.live)
+- 🌱I’m currently learning **Typescript**
 - 👯 Actively Building an NFT Ticketing solution [TixHive](https://www.tixhive.com/) with my team!  | [Blocverse](https://github.com/Blocverse01)
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
