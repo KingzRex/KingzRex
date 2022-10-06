@@ -23,3 +23,5 @@ Here are some ideas to get you started: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingzRex&langs_count=10&layout=compact)](https://github.com/KingzRex/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingzRex&" alt="KingzRex" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshdamian&label=Profile%20views&color=0e75b6&style=flat" alt="joshdamian" /> </p>
