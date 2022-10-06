@@ -24,4 +24,4 @@ Here are some ideas to get you started: -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingzRex&" alt="KingzRex" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshdamian&label=Profile%20views&color=0e75b6&style=flat" alt="joshdamian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KingzRex&label=Profile%20views&color=0e75b6&style=flat" alt="KingzRex" /> </p>
