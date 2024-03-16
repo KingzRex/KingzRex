@@ -5,16 +5,8 @@
 
 Here are some ideas to get you started: -->
 - 🔭 I’m currently working on
-    [TixHive](https://www.tixHive.com/)
-    and
-    [Uwazi](https://uwazi.live)
-- 🌱I’m currently learning **Typescript**
-- 👯 Actively Building an NFT Ticketing solution [TixHive](https://www.tixhive.com/) with my team!  | [Blocverse](https://github.com/Blocverse01)
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+    [TAAS](https://www.taas.live)
+   
 
 
 
